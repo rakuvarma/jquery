@@ -1,0 +1,37 @@
+<html>
+<head><title></title></head>
+<body>
+<form><center><h1><u>Uki-student<u></h1>
+  <fieldset style="width:150px;background-color:lightblue;">
+  <legend>uki.life</legend>
+first name:<input type="text"name="firstname" value="type here"><br>
+
+last name:<input type="text"name="lastname"value="type here"><br>
+
+<br>
+Regno:<input type="text"name="regno" value="type here"><br>
+date of birth;<input type="text"name="lastname"value="type here"><br>
+
+ gender:<input type="radio" name="gender" value="male" checked> Male
+ <input type="radio" name="gender" value="female"> Female<br>
+
+
+for subject : <input type="checkbox" name="programming" value="Bike">programming
+  <input type="checkbox" name="bussiness" value="bussiness"> bussiness<br>
+  <input type="checkbox" name="personal coaching" value="personal coaching"> personal coaching
+  <input type="checkbox" name="english" value="english" >english<br>
+
+
+  feedback:<textarea rows="4" cols="50"></textarea>
+
+
+  <br>
+  <input type="submit" value="Submit">
+  <input type="reset" value="reset">
+</fieldset>
+</form>
+
+</form>
+
+</body>
+</html>
